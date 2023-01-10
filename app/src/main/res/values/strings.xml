@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SPACE</string>
+    <string name="textview" />
+    <string name="textview3">textview3</string>
+    <string name="textview2">textview2</string>
+    <string name="textview1">textview</string>
+    <string name="textview4">textview4</string>
+    <string name="textview5">textview5</string>
+    <string name="textview6">textview6</string>
+    <string name="textview7">textview7</string>
+    <string name="textview8">textview8</string>
+</resources>
